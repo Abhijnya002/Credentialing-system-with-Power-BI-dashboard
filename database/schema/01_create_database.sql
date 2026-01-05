@@ -1,5 +1,4 @@
 -- Credentialing Data Validation Database
--- Created: January 2025
 -- Purpose: Centralized database for credentialing data validation and BI reporting
 
 USE master;
