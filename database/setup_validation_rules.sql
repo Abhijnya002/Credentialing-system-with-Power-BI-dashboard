@@ -5,9 +5,9 @@
 USE CredentialingDB;
 GO
 
-PRINT '========================================';
+
 PRINT 'Starting Validation Rules Setup';
-PRINT '========================================';
+
 GO
 
 -- Step 1: Populate Validation Rules
@@ -40,9 +40,9 @@ PRINT 'Step 6: Creating Master Validation Runner Stored Procedure...';
 :r database/validation_rules/master_validation_runner.sql
 GO
 
-PRINT '========================================';
+
 PRINT 'Validation Rules Setup Completed';
-PRINT '========================================';
+
 GO
 
 -- Verify setup
