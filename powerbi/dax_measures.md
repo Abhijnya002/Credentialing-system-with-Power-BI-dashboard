@@ -514,25 +514,4 @@ Failures MoM Change =
 [Failures This Month] - [Failures Last Month]
 ```
 
-## Usage Notes
-
-1. **Import these measures** into your Power BI model by:
-   - Opening Power BI Desktop
-   - Connecting to your SQL Server database
-   - Creating a new measure in the appropriate table
-   - Copying and pasting the DAX code
-
-2. **Customize measures** as needed based on your specific requirements
-
-3. **Create visuals** using these measures:
-   - Cards for KPIs
-   - Line charts for trends
-   - Bar charts for comparisons
-   - Tables for detailed breakdowns
-
-4. **Set up filters** on your dashboard to allow users to drill down by:
-   - Entity Type (Provider, Credential, Entity)
-   - Severity (Critical, High, Medium, Low)
-   - Validation Status (Fail, Warning, Pass)
-   - Date ranges
 
