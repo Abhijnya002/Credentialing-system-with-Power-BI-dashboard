@@ -283,14 +283,4 @@ CredentialingDB/
 - Power BI refresh: Configurable refresh schedule (near real-time supported)
 - Scalability: Designed to handle millions of records with proper indexing
 
-## Security
 
-- SQL Server authentication and authorization
-- Row-level security support in Power BI
-- Encrypted database connections
-- Audit logging for all operations
-- Sensitive data handling best practices
-
-## License
-
-This project is provided as-is for credentialing data validation and reporting purposes.
